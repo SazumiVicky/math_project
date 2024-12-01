@@ -9,6 +9,7 @@ This project implements various advanced mathematical computations using Rust pr
 
 ## Project Structure
 
+```
 math_project/
 ├── src/
 │   ├── main.rs          # Main application entry
@@ -19,7 +20,7 @@ math_project/
 │   └── geometry/        # Geometric calculations
 │       └── mod.rs
 └── Cargo.toml
-
+```
 ## Features
 
 ### Algebraic Computations
@@ -94,7 +95,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Sazumi Viki]
+Sazumi Viki
 - GitHub: [@sazumivicky](https://github.com/sazumivicky)
 - Email: root@sazumi.moe
 
@@ -105,4 +106,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Based on modern mathematical computation techniques
 
 ---
-© 2024 [Sazumi Viki]. All rights reserved.
+© 2024 Sazumi Viki. All rights reserved.
